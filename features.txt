@@ -1,0 +1,80 @@
+Features
+Admin-Side
+
+    Login Page
+    Home/Dashboard Page
+        Displays the Summary
+    Department Management
+        Add New Department
+        List All Department
+        Update Department Details
+        Delete Department Details
+    Course Management
+        Add New Course
+        List All Courses
+        Update Course Details
+        Delete Course Details
+    Faculty Management
+        Add New Faculty
+        List All Faculties
+        Update Faculty Details
+        Delete Faculty Details
+    Student Management
+        Add New Student
+        List All Students
+        Update Student Details
+        Delete Student Details
+    Class Management
+        Add New Class
+        List All Classes
+        Update Class Details
+        Delete Class Details
+        View Class Information
+        View Class Student List
+        Add Student to Class
+        Delete Student to Class
+        Print Report
+    Attendance Management
+        Select Class to Manage
+        Select Attendance Record Date
+        Record the Class Attendance
+    Update Profile Details
+    Update Profile Avatar
+    Update Account Password
+    Logout
+
+Faculty-Side
+
+    Login Page
+    Home/Dashboard Page
+        Displays the Summary
+    Student Management
+        List All Students
+        View Student Details
+    Class Management
+        List All Classes
+        View Class Information
+        View Class Student List
+        Add Student to Class
+        Delete Student to Class
+        Print Report
+    Attendance Management
+        Select Class to Manage
+        Select Attendance Record Date
+        Record the Class Attendance
+    Update Profile Details
+    Update Profile Avatar
+    Update Account Password
+    Logout
+
+
+
+Access Information
+
+SuperUser
+Username: admin
+Password: admin123
+
+Sample faculty
+Username: cblake
+Password: claire#123
